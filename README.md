@@ -1,5 +1,5 @@
 # Advanced Raspberry Pi Training
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Advanced Raspberry Pi Training](https://www.tertiarycourses.com.sg/advanced-raspberry-pi-course-in-singapore.html) course. 
 
