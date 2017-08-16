@@ -5,6 +5,7 @@ These are the exercise files used for [Advanced Raspberry Pi Training](https://w
 
 The course outline can be found in 
 https://www.tertiarycourses.com.sg/advanced-raspberry-pi-course-in-singapore.html
+https://www.tertiarycourses.com.my/advanced-raspberry-pi-course-in-malaysia.html
 
 <p><strong>Module 1: Setup Up Raspberry Pi as Web Server</strong></p>
 <ul>
